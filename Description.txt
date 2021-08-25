@@ -1,0 +1,17 @@
+Keterangan folde/repository:
+
+[
+	FILE_PROJECT => part1,
+	DATABASE_NAME => learn_part1,
+	TEMA => eloquent crud,  import export file excel, pdf, search, paggination,
+],
+[
+	FILE_PROJECT => test_project_auth,
+	DATABASE_NAME => learn_test_project,
+	TEMA => basic miltiple login dan register, dan juga forgot password
+],
+[
+	FILE_PROJECT => learn_backend,
+	DATABASE_NAME => belajar_fs2,
+	TEMA => basic crud untuk full stack (laravel, vue.js, react native)
+],
