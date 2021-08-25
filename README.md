@@ -5,4 +5,4 @@ Rangkuman dasar laravel 8 :
 - import export file excel, 
 - pdf,
 - pagination,
-- and many more
+- chart and many more
